@@ -13,3 +13,10 @@
 <img src="https://user-images.githubusercontent.com/40056158/171331308-3b77dbc6-9f10-4491-be7e-0a3294c98983.png" width=70% height=50%>
 <img src="https://user-images.githubusercontent.com/40056158/171331321-c2ede3ae-a97f-4cc6-962b-1267d14cb8e0.png" width=70% height=50%>
 <img src="https://user-images.githubusercontent.com/40056158/171331366-5996215c-d974-4af4-a53b-e834807ae400.png" width=70% height=50%>
+
+### User Dashboard
+<img src="https://user-images.githubusercontent.com/40056158/171809851-e0dbb02c-d0af-4878-9796-812aec86fc83.png" width=70% height=50%>
+
+### Admin Dashboard
+<img src="https://user-images.githubusercontent.com/40056158/171810162-7262c6dc-9e72-4658-9694-849da054c19e.png" width=70% height=50%>
+
